@@ -321,7 +321,7 @@ int main(void) {
         if (HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_0)) {
             mode++;
             if (mode == max_mode) {
-                mode = 1;
+                mode = 0;
             }
 
             while (HAL_GPIO_ReadPin(GPIOA, GPIO_PIN_0)) {
