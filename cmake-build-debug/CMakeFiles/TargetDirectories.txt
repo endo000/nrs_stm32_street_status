@@ -1,0 +1,3 @@
+C:/Users/nsakn/UM/NRS/project/cmake-build-debug/CMakeFiles/project.elf.dir
+C:/Users/nsakn/UM/NRS/project/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nsakn/UM/NRS/project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
